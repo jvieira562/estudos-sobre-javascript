@@ -1,0 +1,24 @@
+.imagem {
+    background: url(../images/385739.jpg) no-repeat;
+    width: 200px;
+    height: 200px;
+    display: block;
+    background-size: contain;
+
+}
+.imagem:hover   {
+    background-position: 0px 10px;
+}
+.lista  {
+    color: green;
+    background-color: black;
+    width: fit-content;
+}
+.lista li:nth-child(odd)    {
+    color: white;
+}
+.lista li:hover {
+    font-weight: bolder;
+    margin-left: 5px;
+    color: red;
+}

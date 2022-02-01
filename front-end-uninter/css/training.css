@@ -1,0 +1,29 @@
+#menu {
+    color: green;
+    background-color: black;
+    text-align: center;
+}
+#p1 {
+    color: green;
+    background-color: #000000;
+    font-size: calc(1rem + 0.25vh);
+    line-height: 1.5;
+}
+#p2 {
+    color: green;
+    background-color: black;
+    
+}
+body    {
+    background-image: url(../images/385739.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.box    {
+    color: green;
+    background-color: black;
+    padding: 20px;
+    border: 3px solid green;
+    width: fit-content;
+    margin: 20px;
+}
